@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+MY FIRST APP WITH FLUTTER.
+
+- [Download From Play Store](https://play.google.com/store/apps/details?id=com.class12notes)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
