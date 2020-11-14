@@ -4,6 +4,10 @@ A new Flutter application.
 
 MY FIRST APP WITH FLUTTER.
 
+![Screenshot 1](https://raw.githubusercontent.com/jatinhemnani01/class12comm/master/screenshots/screenshot1.webp)
+![Screenshot 2](https://raw.githubusercontent.com/jatinhemnani01/class12comm/master/screenshots/screenshot2.webp)
+![Screenshot 3](https://raw.githubusercontent.com/jatinhemnani01/class12comm/master/screenshots/screenshot3.webp)
+
 - [Download From Play Store](https://play.google.com/store/apps/details?id=com.class12notes)
 
 ## Getting Started
