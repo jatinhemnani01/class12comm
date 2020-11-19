@@ -11,15 +11,13 @@ class _BannerJState extends State<BannerJ> {
   void initState() {
     super.initState();
 
-    Admob.initialize(
-        testDeviceIds: <String>["6DD54182513B8F4C3E189AD6F342B353"]);
+    Admob.initialize();
   }
 
   @override
   Widget build(BuildContext context) {
     return Container(
       child: AdmobBanner(
-        nonPersonalizedAds: false,
         adUnitId: AdmobBanner.testAdUnitId,
         adSize: AdmobBannerSize.ADAPTIVE_BANNER(
           width: MediaQuery.of(context).size.width.toInt(),

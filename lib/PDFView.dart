@@ -33,6 +33,7 @@ class _PDFViewState extends State<PDFView> {
         Navigator.pop(context);
       },
       child: Scaffold(
+        bottomNavigationBar: BannerJ(),
         appBar: AppBar(
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.vertical(
